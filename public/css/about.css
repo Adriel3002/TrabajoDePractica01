@@ -1,6 +1,23 @@
-/* body.About {
-    background-color: cyan;
-} */
-.About h1 {
-    line-height: 30px;
+body.About {
+    background-image: url('/images/emilia-about.jpg');
+    background-size: 75% ; 
+    background-repeat: no-repeat;
+    background-position: right top;
 }
+
+.About section {
+    margin-left: 30px;
+    color: #2da68f;
+}
+.About h4 {
+    font-size: 24px;
+
+}
+
+.About ul {
+    padding: 0%;
+}
+
+/* .About ul li {
+    list-style: l;
+} */
