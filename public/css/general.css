@@ -1,9 +1,18 @@
-a{
+body {
+    font-family: 'Open Sans';
+}
+
+a {
     text-decoration: none;
 }
 li {
     list-style: none;
 }
-h1 {
+h1, h2 {
+    text-transform: uppercase;
+    font-family: 'Raleway';
+}
+
+header nav ul li {
     text-transform: uppercase;
 }

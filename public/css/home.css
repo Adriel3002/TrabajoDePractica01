@@ -3,7 +3,13 @@ body.Home {
     background-size: 75% ; 
     background-repeat: no-repeat;
     background-position: right top;
+
 }
 /* .Home h1 {
-    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 } */
+.Home h1 {
+    font-family: 'Work Sans';
+
+}
